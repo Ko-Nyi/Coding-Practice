@@ -1,0 +1,18 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th.eg1{
+    width: 25%;
+    height: 25%;
+}
+th.eg2{
+    height: 70%;
+}
+table.eg3{
+    width: 100%;
+}
+td { text-align: center;}
+th, td { padding: 15px; }
+table { border-spacing: 25px 50px; }
+table, td, th { border-spacing: 25px; }
